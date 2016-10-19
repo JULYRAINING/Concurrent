@@ -1,0 +1,45 @@
+.gz 
+Ω‚—π1£∫gunzip FileName.gz
+Ω‚—π2£∫gzip -d FileName.gz 
+—πÀı£∫gzip FileName 
+.tar.gz 
+Ω‚—π£∫tar zxvf FileName.tar.gz 
+—πÀı£∫tar zcvf FileName.tar.gz DirName 
+--------------------------------------------- 
+.bz2 
+Ω‚—π1£∫bzip2 -d FileName.bz2 
+Ω‚—π2£∫bunzip2 FileName.bz2 
+—πÀı£∫ bzip2 -z FileName 
+.tar.bz2 
+Ω‚—π£∫tar jxvf FileName.tar.bz2 
+—πÀı£∫tar jcvf FileName.tar.bz2 DirName 
+--------------------------------------------- 
+.bz 
+Ω‚—π1£∫bzip2 -d FileName.bz 
+Ω‚—π2£∫bunzip2 FileName.bz 
+—πÀı£∫Œ¥÷™ 
+.tar.bz 
+Ω‚—π£∫tar jxvf FileName.tar.bz 
+—πÀı£∫Œ¥÷™ 
+--------------------------------------------- 
+.Z 
+Ω‚—π£∫uncompress FileName.Z 
+—πÀı£∫compress FileName 
+.tar.Z 
+Ω‚—π£∫tar Zxvf FileName.tar.Z 
+—πÀı£∫tar Zcvf FileName.tar.Z DirName 
+--------------------------------------------- 
+.tgz 
+Ω‚—π£∫tar zxvf FileName.tgz 
+—πÀı£∫Œ¥÷™ 
+.tar.tgz 
+Ω‚—π£∫tar zxvf FileName.tar.tgz 
+—πÀı£∫tar zcvf FileName.tar.tgz FileName 
+--------------------------------------------- 
+.zip 
+Ω‚—π£∫unzip FileName.zip 
+—πÀı£∫zip FileName.zip DirName 
+--------------------------------------------- 
+.rar 
+Ω‚—π£∫rar a FileName.rar 
+—πÀı£∫r ar e FileName.rar
