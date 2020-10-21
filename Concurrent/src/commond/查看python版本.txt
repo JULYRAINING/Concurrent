@@ -1,8 +1,0 @@
->>> import sys
->>> path = sys.executable
->>> print path
-C:\Python25\pythonw.exe
->>> folder = path[ 0 : path.rfind( os.sep ) ]
->>> print folder
-C:\Python25
->>>

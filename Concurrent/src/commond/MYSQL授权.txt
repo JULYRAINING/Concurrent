@@ -1,2 +1,0 @@
-grant all on *.* to guest@'%' identified by 'moment';
-flush privileges;
